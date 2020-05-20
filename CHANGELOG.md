@@ -1,5 +1,15 @@
 # Changelog
 
+### [0.122.2](https://www.github.com/googleapis/java-dataproc/compare/v0.122.1...v0.122.2) (2020-05-20)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-common-protos to v1.18.0 ([#178](https://www.github.com/googleapis/java-dataproc/issues/178)) ([a70d3a5](https://www.github.com/googleapis/java-dataproc/commit/a70d3a5e75a195effe4be9f1d981178219ddcdf2))
+* update dependency com.google.protobuf:protobuf-java to v3.12.0 ([#187](https://www.github.com/googleapis/java-dataproc/issues/187)) ([aa7379c](https://www.github.com/googleapis/java-dataproc/commit/aa7379c20b750acd59cdc521304c19e5b3b197da))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#170](https://www.github.com/googleapis/java-dataproc/issues/170)) ([6e256fd](https://www.github.com/googleapis/java-dataproc/commit/6e256fd8f2b7bb978fe598088f3ce1f04370bc46))
+* update dependency org.threeten:threetenbp to v1.4.4 ([#172](https://www.github.com/googleapis/java-dataproc/issues/172)) ([8514a2e](https://www.github.com/googleapis/java-dataproc/commit/8514a2e840403f226f1a9fee52d3c782b2744869))
+
 ### [0.122.1](https://www.github.com/googleapis/java-dataproc/compare/v0.122.0...v0.122.1) (2020-04-20)
 
 
